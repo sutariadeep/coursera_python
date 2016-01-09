@@ -1,0 +1,1 @@
+My mini projects for the coursera course. Games are written in python language. Enjoy it and play!!
